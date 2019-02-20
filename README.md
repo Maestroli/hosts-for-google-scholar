@@ -1,0 +1,3 @@
+# hosts-for-google-scholar
+Hosts file providing IPv6/4 access to Chrome/Google, YouTube, Wikipedia, etc. in Mainland China.
+This file is effective to protect your PC from many types of spyware......
