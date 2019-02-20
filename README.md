@@ -13,6 +13,6 @@
 ## D=>> Tips
 ## 1. The file will be updated every two months and free to use.
 ## 2. Once failure, the paid service guarantees the latest available file 
-## 3. Any questions contact:: lx5914(WeChat,instantly) or ll412350863@163.com (e-mail,delay)
+## 3. Any questions contact:: ll412350863@163.com
 ## 
 ##                       ++>> Welcome DENATE to us <<++
